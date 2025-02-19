@@ -2,11 +2,10 @@
 
 Administrator: Kurim01.
 
-Ctrl-Alt-Del:
-	LCtrl-Del
+Ctrl-Alt-Del: LCtrl-Del
 
 Zakažte vzdálenou správu a zapněte vzdálenou plochu:
-	^^^ ????
+        ^^^ ????
 
 
 zadne jine problemy nebyly a stacilo se minutku proklikat nastavenim (byly vyreseny bez internetu)
